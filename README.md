@@ -1,3 +1,7 @@
 # inventory-system
 
-This is an inventory system which manages information about videogames. It allows basic CRUD operations. This project demonstrates the ability to create a static web application using Express.js and to save user submitted data to a database (namely, MongoDB).
+This is an inventory system which manages information about videogames that allows basic CRUD operations. This is a static web application using Express.js that saves user submitted data to a database (namely, MongoDB).
+
+[Link to the site](https://inventory-system-production-2a57.up.railway.app/)
+
+![inventory-system-demo](https://github.com/user-attachments/assets/e9175650-b80f-4514-91ee-ef08cf8aea8b)
